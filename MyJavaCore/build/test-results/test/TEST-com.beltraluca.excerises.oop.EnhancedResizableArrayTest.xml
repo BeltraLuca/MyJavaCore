@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.beltraluca.excerises.oop.EnhancedResizableArrayTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-03-29T09:00:51" hostname="DESKTOP-JLGI4J8" time="0.028">
+  <properties/>
+  <testcase name="remove()" classname="com.beltraluca.excerises.oop.EnhancedResizableArrayTest" time="0.019"/>
+  <testcase name="add()" classname="com.beltraluca.excerises.oop.EnhancedResizableArrayTest" time="0.001"/>
+  <testcase name="get()" classname="com.beltraluca.excerises.oop.EnhancedResizableArrayTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
