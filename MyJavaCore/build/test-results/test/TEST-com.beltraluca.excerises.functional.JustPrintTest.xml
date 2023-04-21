@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.beltraluca.excerises.functional.JustPrintTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-04-21T13:02:43" hostname="DESKTOP-8Q7P787" time="0.043">
+  <properties/>
+  <testcase name="justPrintMap()" classname="com.beltraluca.excerises.functional.JustPrintTest" time="0.036"/>
+  <testcase name="justPrintList()" classname="com.beltraluca.excerises.functional.JustPrintTest" time="0.005"/>
+  <system-out><![CDATA[k:2, v:Sio
+k:3, v:mondo
+k:1, v:ciao
+Hello Luca!
+Hello Simone!
+Hello Marco!
+Hello Giulio!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
